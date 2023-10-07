@@ -1,0 +1,4 @@
+repository "Ground Station - SUITS@bsu_suits@cloud"
+  path "/"
+    br "/main"
+    co "/main"
